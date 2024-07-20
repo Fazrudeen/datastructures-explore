@@ -1,6 +1,6 @@
 package com.samplejava.springboot;
 
-import com.samplejava.springboot.algorithms.CommonPrefix;
+import com.samplejava.springboot.algorithms.collections.CommonPrefix;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import java.util.ArrayList;

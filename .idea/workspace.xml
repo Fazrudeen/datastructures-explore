@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="39846d99-c11b-4ee1-9921-70ced5817f44" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/CommonHacks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/IsomorphicString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/MergeAlternateString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/PartitionArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/RemoveFromArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/TripletsValidation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/WordDictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/collections/ArrayComparision.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/collections/LimitDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/collections/MostFrequent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/collections/SigleElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/collections/longPre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/misc/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/misc/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/misc/InterSectionArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/misc/PrimeNumberList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/queue/DecodeString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/queue/MaxAndMinFromArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/queue/RemoveStars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/queue/balanceBrackets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/slidingwindow/MaxVowels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/string/IsVowels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/string/Permutation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4.2/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4.2/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4.2/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4.2/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4.2/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4.2/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4.2/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4.2/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4.2/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4.2/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/samplejava/springboot/algorithms/Anagram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/samplejava/springboot/algorithms/CheckClosedIteration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/samplejava/springboot/algorithms/CommonPrefix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/samplejava/springboot/algorithms/ConnectingStrings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/samplejava/springboot/algorithms/DomainSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/samplejava/springboot/algorithms/FindDuplicates.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/samplejava/springboot/algorithms/FizzBuzz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/samplejava/springboot/algorithms/GetSubString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/samplejava/springboot/algorithms/KthLargest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/samplejava/springboot/algorithms/LongestDistance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/samplejava/springboot/algorithms/LongestSubString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/samplejava/springboot/algorithms/MaxSubArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/samplejava/springboot/algorithms/MaxSubArrayforGivenNum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/samplejava/springboot/algorithms/MissingFirstInteger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/samplejava/springboot/algorithms/MoveZeroToEnd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/samplejava/springboot/algorithms/Palindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/samplejava/springboot/algorithms/PasswordValidation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/samplejava/springboot/algorithms/ReverseString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/samplejava/springboot/algorithms/ReverseWord.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/samplejava/springboot/algorithms/ReverseWord.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/samplejava/springboot/algorithms/RomanToNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/samplejava/springboot/algorithms/RotateArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/samplejava/springboot/algorithms/SumTwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/Anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/string/Anagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/CheckClosedIteration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/string/CheckClosedIteration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/CommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/collections/CommonPrefix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/ConnectingStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/string/ConnectingStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/DomainSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/collections/DomainSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/FindDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/collections/FindDuplicates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/misc/FizzBuzz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/GetSubString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/slidingwindow/GetSubString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/KthLargest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/queue/KthLargest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/LongestDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/collections/LongestDistance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/LongestSubString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/slidingwindow/LongestSubString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/MaxSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/slidingwindow/MaxSubArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/MaxSubArrayforGivenNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/slidingwindow/MaxSubArrayforGivenNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/MissingFirstInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/collections/MissingFirstInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/MoveZeroToEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/collections/MoveZeroToEnd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/misc/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/PasswordValidation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/misc/PasswordValidation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/string/ReverseString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/RomanToNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/misc/RomanToNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/RotateArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/collections/RotateArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/SumTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/collections/SumTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/samplejava/springboot/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/samplejava/springboot/TestClass.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="datastructures-explore" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2aGzC5ZC1o0TVI5EutDxVLjJrRi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/fazrudeensheikalawdeen/Documents/IdeaProjects/explore-datasturctures&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.samplejava.springboot.algorithms.queue" />
+      <recent name="com.samplejava.springboot.algorithms.misc" />
+      <recent name="com.samplejava.springboot.algorithms.slidingwindow" />
+      <recent name="com.samplejava.springboot.algorithms.string" />
+      <recent name="com.samplejava.springboot.algorithms" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.longPre">
+    <configuration name="Application" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.samplejava.springboot.Application" />
+      <module name="explore-springboot.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DecodeString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.samplejava.springboot.algorithms.queue.DecodeString" />
+      <module name="com.samplejava.springboot.datastructures-explore.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.samplejava.springboot.algorithms.queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InterSectionArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.samplejava.springboot.algorithms.misc.InterSectionArray" />
+      <module name="com.samplejava.springboot.datastructures-explore.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.samplejava.springboot.algorithms.misc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxVowels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.samplejava.springboot.algorithms.slidingwindow.MaxVowels" />
+      <module name="com.samplejava.springboot.datastructures-explore.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.samplejava.springboot.algorithms.slidingwindow.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SigleElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.samplejava.springboot.algorithms.collections.SigleElement" />
+      <module name="com.samplejava.springboot.datastructures-explore.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.samplejava.springboot.algorithms.collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="longPre" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.samplejava.springboot.algorithms.collections.longPre" />
+      <module name="com.samplejava.springboot.datastructures-explore.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.samplejava.springboot.algorithms.collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Application" />
+      <item itemvalue="Application.SigleElement" />
+      <item itemvalue="Application.longPre" />
+      <item itemvalue="Application.InterSectionArray" />
+      <item itemvalue="Application.DecodeString" />
+      <item itemvalue="Application.MaxVowels" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.longPre" />
+        <item itemvalue="Application.SigleElement" />
+        <item itemvalue="Application.InterSectionArray" />
+        <item itemvalue="Application.DecodeString" />
+        <item itemvalue="Application.MaxVowels" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-3183f394aec4-96c0d24d" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39846d99-c11b-4ee1-9921-70ced5817f44" name="Changes" comment="" />
+      <created>1703959573139</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703959573139</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/collections/LimitDuplicate.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/collections/MostFrequent.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/string/Anagram.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/misc/Factorial.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/queue/MaxAndMinFromArray.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/samplejava/springboot/algorithms/misc/Factorial.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/datastructures_explore$MostFrequent.ic" NAME="MostFrequent Coverage Results" MODIFIED="1704340043839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.samplejava.springboot.algorithms.*</FILTER>
+    </SUITE>
+  </component>
+</project>
